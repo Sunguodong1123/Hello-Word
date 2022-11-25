@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201808/650168b922e4aae868b29fec672c4fa9_big.jpg" group-title="DNF",旭旭宝宝
 https://epg.112114.xyz/douyu/99999
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201910/98e8953876184a21bb989f24041309f2_middle.jpg" group-title="DNF",大龙猫
-https://epg.112114.xyz/douyu/461130
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/29/4bafcf599029eae6cb7433c439503b_180_135.jpg?1530351273&463706" group-title="王者荣耀",六尾
+https://epg.112114.xyz/huya/77266
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1035/2c/f83d73205407700926ddb7107c593d_180_135.jpg?1658929595&463706" group-title="王者荣耀",陌晨
+https://epg.112114.xyz/huya/582378
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/31/d8e19bbe4c19edbd39b9841e29e134_180_135.jpg?1621915070&463706" group-title="王者荣耀",宇晨【马可导师】
+https://epg.112114.xyz/huya/691346
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/d1/684be77eb8ab1b8196588daeeedb3f_180_135.jpg?1667053120&463706" group-title="王者荣耀",小炎【妲己的神】
+https://epg.112114.xyz/huya/391946
