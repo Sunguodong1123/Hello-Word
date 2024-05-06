@@ -180,7 +180,7 @@ let autoSign = async () => {
     if (shopList.length > 0) {
       for(let i = 0; i < shopList.length; i++) {
         let item = shopList[i]
-        if (item.commodityName && item.commodityName.indexOf('海底捞新一代番茄火锅') > -1) {
+        if (item.commodityName && item.commodityName.indexOf('清油麻辣火锅') > -1) {
           // 兑换 海底捞新一代番茄火锅
           msg = await pay(allDataList[key], activityId, item.id)
           break;
