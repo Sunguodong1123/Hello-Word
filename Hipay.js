@@ -15,7 +15,7 @@
 
  let { delay, getCurrentData, getDataList, sendEmail, getCurrentTime, Env, checkEnv, SendMsg } = require('./common.js')
  const $ = new Env("海底捞兑换");
- const ckName = "hdl_token";
+ const ckName = "hdlTk";
  let allDataList = [];
  var request = require("request");
  function getActivityId (token) {
