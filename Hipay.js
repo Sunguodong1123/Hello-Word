@@ -188,6 +188,7 @@ let autoSign = async () => {
       }
     }
     console.log('兑换结果:' + msg)
+   await SendMsg($, msg, 1);
   }
 }
  
